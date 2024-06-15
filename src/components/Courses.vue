@@ -3,13 +3,15 @@ import data from '../locales/data.json';
 </script>
 
 <template>
-  <div>
-    <h2 class="text-gray-600">Courses</h2>
+  <section class="flex gap-x-8">
+    <h2 class="w-1/6 text-gray-600">Courses</h2>
 
-    <div v-for="course in data.courses" class="mt-2">
-      <h1 class="font-medium text-xl">{{ course.title }} &middot; {{ course.institution }}</h1>
-      <h2 v-if="course.expiryDate" class="text-gray-500 text-sm">{{ course.issueDate }} - {{ course.expiryDate }}</h2>
-      <h2 v-else class="text-gray-500 text-sm">{{ course.issueDate }}</h2>
+    <div class="w-5/6">
+      <div v-for="course in data.courses">
+        <h1 class="font-medium text-xl">{{ course.title }}</h1>
+        <h2 class="text-lg">{{ course.institution }}</h2>
+        <h3 class="text-gray-500 text-sm">{{ course.issueDate }} <span v-if="course.expiryDate"> - {{ course.expiryDate }}</span></h3>
+      </div>
     </div>
-  </div>
+  </section>
 </template>

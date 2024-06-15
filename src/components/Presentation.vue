@@ -3,10 +3,10 @@ import data from '../locales/data.json';
 </script>
 
 <template>
-  <section class="flex flex-row gap-x-16">
-    <img src="../assets/portrait.jpg" alt="Portrait of Juan Burillo" class="w-24 h-24 rounded-full">
+  <section class="flex flex-row gap-x-8">
+    <img src="../assets/portrait.jpg" alt="Portrait of Juan Burillo" class="w-1/6 h-1/6 rounded-full">
 
-    <div>
+    <div class="w-5/6">
         <div class="text-sm text-gray-600">
           <p>{{ data.contact.location }}</p>
           <p>{{ data.contact.phone }} &middot; {{ data.contact.email }}</p>
