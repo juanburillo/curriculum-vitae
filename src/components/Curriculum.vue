@@ -8,17 +8,12 @@ import Skills from './Skills.vue';
 </script>
 
 <template>
-  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 bg-white shadow-md">
+  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 space-y-10 bg-white shadow-md">
     <Presentation />
-
-    <Experience class="mt-6"/>
-
-    <Education class="mt-6" />
-
-    <Skills class="mt-6" />
-
-    <Courses class="mt-6" />
-
-    <Links class="mt-6" />
+    <Experience />
+    <Education />
+    <Skills />
+    <Courses />
+    <Links />
   </div>
 </template>
