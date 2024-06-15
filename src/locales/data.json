@@ -36,5 +36,13 @@
     "MySQL",
     "PHP",
     "Tailwind CSS"
+  ],
+  "courses": [
+    {
+      "title": "JSE - Certified Entry-Level JavaScript Programmer",
+      "institution": "OpenEDG",
+      "issueDate": "February 2023",
+      "expiryDate": null
+    }
   ]
 }
