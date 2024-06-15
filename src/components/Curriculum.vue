@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import Experience from './Experience.vue';
 import Presentation from './Presentation.vue';
+import Education from './Education.vue';
 </script>
 
 <template>
@@ -8,5 +9,7 @@ import Presentation from './Presentation.vue';
     <Presentation />
 
     <Experience class="mt-10"/>
+
+    <Education />
   </div>
 </template>
