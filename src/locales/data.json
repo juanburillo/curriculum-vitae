@@ -6,5 +6,15 @@
     "location": "Madrid, Spain",
     "phone": "+34 648 09 24 23",
     "email": "juanburillodev@gmail.com"
-  }
+  },
+  "experience": [
+    {
+      "title": "Software Development",
+      "employer": "Autentia by Izertis",
+      "startDate": "April 2024",
+      "endDate": "June 2024",
+      "city": "Madrid",
+      "description": "During my internship, I acquired skills in full stack application development using Spring Boot and Angular. I implemented advanced methodologies such as Test-Driven Development (TDD) and hexagonal architecture. Additionally, I worked with modern technologies like Docker to optimize and manage development and deployment environments."
+    }
+  ]
 }
