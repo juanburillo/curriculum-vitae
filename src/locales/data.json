@@ -5,7 +5,17 @@
   "contact": {
     "location": "Madrid, Spain",
     "phone": "+34 648 09 24 23",
-    "email": "juanburillodev@gmail.com"
+    "email": "juanburillodev@gmail.com",
+    "socials": [
+      {
+        "site": "LinkedIn",
+        "url": "https://www.linkedin.com/in/juan-burillo/"
+      },
+      {
+        "site": "GitHub",
+        "url": "https://github.com/juanburillo/"
+      }
+    ]
   },
   "experience": [
     {
