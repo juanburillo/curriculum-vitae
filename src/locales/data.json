@@ -26,5 +26,15 @@
       "city": "Madrid",
       "description": "In this degree, I acquired skills in various languages and technologies, including Java, HTML, CSS, JavaScript, Spring Boot, PHP, and MySQL, among others. Additionally, I gained my first experience in team development and collaboratively managing projects with my colleagues."
     }
+  ],
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "JavaScript",
+    "Angular",
+    "Vue.js",
+    "MySQL",
+    "PHP",
+    "Tailwind CSS"
   ]
 }
