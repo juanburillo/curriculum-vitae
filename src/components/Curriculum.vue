@@ -2,6 +2,7 @@
 import Experience from './Experience.vue';
 import Presentation from './Presentation.vue';
 import Education from './Education.vue';
+import Skills from './Skills.vue';
 </script>
 
 <template>
@@ -11,5 +12,7 @@ import Education from './Education.vue';
     <Experience class="mt-8"/>
 
     <Education class="mt-8" />
+
+    <Skills class="mt-8" />
   </div>
 </template>
