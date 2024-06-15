@@ -16,5 +16,15 @@
       "city": "Madrid",
       "description": "During my internship, I acquired skills in full stack application development using Spring Boot and Angular. I implemented advanced methodologies such as Test-Driven Development (TDD) and hexagonal architecture. Additionally, I worked with modern technologies like Docker to optimize and manage development and deployment environments."
     }
+  ],
+  "education": [
+    {
+      "title": "Web Application Development",
+      "school": "Instituto Nebrija de Formación Profesional",
+      "startDate": "September 2022",
+      "endDate": "June 2024",
+      "city": "Madrid",
+      "description": "In this degree, I acquired skills in various languages and technologies, including Java, HTML, CSS, JavaScript, Spring Boot, PHP, and MySQL, among others. Additionally, I gained my first experience in team development and collaboratively managing projects with my colleagues."
+    }
   ]
 }
