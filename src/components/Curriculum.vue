@@ -8,7 +8,7 @@ import Skills from './Skills.vue';
 </script>
 
 <template>
-  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 space-y-10 bg-white shadow-lg">
+  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 space-y-10 bg-white shadow-lg rounded-md">
     <Presentation />
     <Experience />
     <Education />
