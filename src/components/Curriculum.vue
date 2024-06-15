@@ -7,6 +7,6 @@ import Presentation from './Presentation.vue';
   <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 bg-white shadow-md">
     <Presentation />
 
-    <Experience />
+    <Experience class="mt-10"/>
   </div>
 </template>
