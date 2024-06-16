@@ -9,9 +9,12 @@
         <div class="text-sm text-gray-600">
           <p>Madrid, Spain</p>
           <p>+34 648 09 24 23 &middot; juanburillodev@gmail.com</p>
+          <a href="https://www.linkedin.com/in/juan-burillo/" target="_blank" class="underline">LinkedIn</a>
+          &middot;
+          <a href="https://github.com/juanburillo/" target="_blank" class="underline">GitHub</a>
         </div>
 
-        <div class="mt-6">
+        <div class="mt-4">
           <h1 class="font-bold text-3xl text-gray-800">Juan Burillo Retuerto</h1>
           <h2 class="font-medium text-gray-700">Full Stack Developer</h2>
           <p class="mt-2 text-lg text-justify text-gray-700">
