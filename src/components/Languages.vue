@@ -3,10 +3,14 @@ import SectionLayout from '../layouts/SectionLayout.vue';
 </script>
 
 <template>
-  <SectionLayout title="Languages">
+  <SectionLayout :title="$t('languages.heading')">
     <div class="grid grid-cols-2 font-medium text-gray-700">
-      <p>English <span class="text-sm text-gray-600">(Advanced)</span></p>
-      <p>Spanish <span class="text-sm text-gray-600">(Native)</span></p>
+      <p>
+        {{ $t('languages.english') }} <span class="text-sm text-gray-600">({{ $t('languages.englishLevel') }})</span>
+      </p>
+      <p>
+        {{ $t('languages.spanish') }} <span class="text-sm text-gray-600">({{ $t('languages.spanishLevel') }})</span>
+      </p>
     </div>
   </SectionLayout>
 </template>

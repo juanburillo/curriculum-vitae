@@ -14,7 +14,7 @@ const skills: Array<String> = [
 </script>
 
 <template>
-  <SectionLayout title="Skills">
+  <SectionLayout :title="$t('skills.heading')">
     <div class="grid grid-cols-4 gap-y-2">
       <p v-for="skill in skills" class="font-medium text-gray-700 text-sm">{{ skill }}</p>
     </div>

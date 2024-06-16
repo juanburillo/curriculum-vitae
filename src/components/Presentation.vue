@@ -7,7 +7,7 @@
 
     <div class="w-5/6">
         <div class="text-sm text-gray-600">
-          <p>Madrid, Spain</p>
+          <p>{{ $t('presentation.location') }}</p>
           <p>+34 648 09 24 23 &middot; juanburillodev@gmail.com</p>
           <a href="https://www.linkedin.com/in/juan-burillo/" target="_blank" class="underline">LinkedIn</a>
           &middot;
@@ -16,10 +16,11 @@
 
         <div class="mt-4">
           <h1 class="font-bold text-3xl text-gray-800">Juan Burillo Retuerto</h1>
-          <h2 class="font-medium text-gray-700">Full Stack Developer</h2>
-          <p class="mt-2 text-lg text-justify text-gray-700">
-            I am a junior web developer with a strong desire to join the professional world.
-            I enjoy continuously learning and learning new technologies, as well as deepening my knowledge of those I already know.
+          <h2 class="font-medium text-gray-700">
+            {{ $t('presentation.title') }}
+          </h2>
+          <p class="mt-2 text-base text-justify text-gray-700">
+            {{ $t('presentation.description') }}
           </p>
         </div>
     </div>
