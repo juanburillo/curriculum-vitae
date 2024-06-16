@@ -3,7 +3,7 @@
 
 <template>
   <section class="flex gap-x-8">
-    <img src="../assets/portrait.jpg" alt="Portrait of Juan Burillo" class="w-1/6 h-1/6 rounded-full">
+    <img src="../assets/portrait.png" alt="Portrait of Juan Burillo" class="w-1/6 h-1/6 rounded-full shadow-sm">
 
     <div class="w-5/6">
         <div class="text-sm text-gray-600">
