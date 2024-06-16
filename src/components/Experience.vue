@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import data from '../locales/data.json';
 </script>
 
 <template>
@@ -7,12 +6,10 @@ import data from '../locales/data.json';
     <h2 class="w-1/6 text-gray-600">Experience</h2>
 
     <div class="w-5/6">
-      <div v-for="job in data.experience">
-        <h1 class="font-medium text-xl">{{ job.title }}</h1>
-        <h2 class="text-lg">{{ job.employer }}</h2>
-        <h3 class="text-gray-500 text-sm">{{ job.startDate }} - {{ job.endDate }} &middot; {{ job.city }}</h3>
-        <p class="mt-1 text-justify">{{ job.description }}</p>
-      </div>
+      <h1 class="font-medium text-xl">Software Development</h1>
+      <h2 class="text-lg">Autentia by Izertis</h2>
+      <h3 class="text-gray-500 text-sm">April 2024 - June 2024 &middot; Madrid</h3>
+      <p class="mt-1 text-justify">During my internship, I acquired skills in full stack application development using Spring Boot and Angular. I implemented advanced methodologies such as Test-Driven Development (TDD) and hexagonal architecture. Additionally, I worked with modern technologies like Docker to optimize and manage development and deployment environments.</p>
     </div>
   </section>
 </template>
