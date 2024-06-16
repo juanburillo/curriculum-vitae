@@ -8,8 +8,9 @@ import data from '../locales/data.json';
 
     <div class="w-5/6">
       <div v-for="degree in data.education">
-        <h1 class="font-medium text-xl">{{ degree.title }} at {{ degree.school }}</h1>
-        <h2 class="text-gray-500 text-sm">{{ degree.startDate }} - {{ degree.endDate }} &middot; {{ degree.city }}</h2>
+        <h1 class="font-medium text-xl">{{ degree.title }}</h1>
+        <h2 class="text-lg">{{ degree.school }}</h2>
+        <h3 class="text-gray-500 text-sm">{{ degree.startDate }} - {{ degree.endDate }} &middot; {{ degree.city }}</h3>
         <p class="mt-1 text-justify">{{ degree.description }}</p>
       </div>
     </div>

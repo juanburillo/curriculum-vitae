@@ -8,8 +8,9 @@ import data from '../locales/data.json';
 
     <div class="w-5/6">
       <div v-for="job in data.experience">
-        <h1 class="font-medium text-xl">{{ job.title }} at {{ job.employer }}</h1>
-        <h2 class="text-gray-500 text-sm">{{ job.startDate }} - {{ job.endDate }} &middot; {{ job.city }}</h2>
+        <h1 class="font-medium text-xl">{{ job.title }}</h1>
+        <h2 class="text-lg">{{ job.employer }}</h2>
+        <h3 class="text-gray-500 text-sm">{{ job.startDate }} - {{ job.endDate }} &middot; {{ job.city }}</h3>
         <p class="mt-1 text-justify">{{ job.description }}</p>
       </div>
     </div>
