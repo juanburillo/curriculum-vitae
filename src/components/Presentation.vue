@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="flex flex-row gap-x-8">
+  <section class="flex gap-x-8">
     <img src="../assets/portrait.jpg" alt="Portrait of Juan Burillo" class="w-1/6 h-1/6 rounded-full">
 
     <div class="w-5/6">

@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import SectionLayout from '../layouts/SectionLayout.vue';
+
 const skills: Array<String> = [
   "☕ Java",
   "🍃 Spring Boot",
@@ -12,11 +14,9 @@ const skills: Array<String> = [
 </script>
 
 <template>
-  <section class="flex gap-x-8">
-    <h2 class="w-1/6 text-gray-600">Skills</h2>
-
-    <div class="w-5/6 grid grid-cols-4 gap-y-2">
+  <SectionLayout title="Skills">
+    <div class="grid grid-cols-4 gap-y-2">
       <p v-for="skill in skills" class="font-medium text-gray-700 text-sm">{{ skill }}</p>
     </div>
-  </section>
+  </SectionLayout>
 </template>
