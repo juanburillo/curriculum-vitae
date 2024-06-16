@@ -1,0 +1,39 @@
+{
+  "presentation": {
+    "location": "Madrid, España",
+    "title": "Desarrollador Full Stack",
+    "description": "Soy un desarrollador web junior con muchas ganas de integrarme en el mundo laboral. Disfruto formándome continuamente y aprendiendo nuevas tecnologías, así como profundizando en las que ya conozco. Tengo la capacidad de trabajar en inglés y me encanta colaborar en equipo."
+  },
+  "experience": {
+    "heading": "Experiencia",
+    "title": "Desarrollo de Software",
+    "employer": "Autentia by Izertis",
+    "startDate": "Abril 2024",
+    "endDate": "Junio 2024",
+    "description": "Durante mi contrato de prácticas, adquirí habilidades en el desarrollo de aplicaciones full stack utilizando Spring Boot y Angular. Implementé metodologías avanzadas como el desarrollo dirigido por pruebas (TDD) y la arquitectura hexagonal. Además, trabajé con tecnologías modernas como Docker para optimizar y gestionar entornos de desarrollo y despliegue."
+  },
+  "education": {
+    "heading": "Educación",
+    "title": "Grado Superior en Desarrollo de Aplicaciones Web",
+    "school": "Instituto Nebrija de Formación Profesional",
+    "startDate": "Septiembre 2022",
+    "endDate": "Junio 2024",
+    "description": "En este grado, adquirí competencias en diversos lenguajes y tecnologías, incluyendo Java, HTML, CSS, JavaScript, Spring Boot, PHP y MySQL, entre otros. Además, tuve mi primera experiencia desarrollando en equipo y gestionando proyectos colaborativamente con mis compañeros."
+  },
+  "skills": {
+    "heading": "Habilidades"
+  },
+  "courses": {
+    "heading": "Cursos",
+    "title": "JSE - Certified Entry-Level JavaScript Programmer",
+    "institution": "OpenEDG",
+    "issueDate": "Febrero 2023"
+  },
+  "languages": {
+    "heading": "Idiomas",
+    "english": "Inglés",
+    "englishLevel": "Avanzado - C1",
+    "spanish": "Español",
+    "spanishLevel": "Nativo"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "presentation": {
+    "location": "Madrid, Spain",
+    "title": "Full Stack Developer",
+    "description": "I am a junior web developer with a strong desire to join the professional world. I enjoy continuously learning and learning new technologies, as well as deepening my knowledge of those I already know."
+  },
+  "experience": {
+    "heading": "Experience",
+    "title": "Software Development",
+    "employer": "Autentia by Izertis",
+    "startDate": "April 2024",
+    "endDate": "June 2024",
+    "description": "During my internship, I acquired skills in full stack application development using Spring Boot and Angular. I implemented advanced methodologies such as Test-Driven Development (TDD) and hexagonal architecture. Additionally, I worked with modern technologies like Docker to optimize and manage development and deployment environments."
+  },
+  "education": {
+    "heading": "Education",
+    "title": "Web Application Development Degree",
+    "school": "Instituto Nebrija de Formación Profesional",
+    "startDate": "September 2022",
+    "endDate": "June 2024",
+    "description": "In this degree, I acquired skills in various languages and technologies, including Java, HTML, CSS, JavaScript, Spring Boot, PHP, and MySQL, among others. Additionally, I gained my first experience in team development and collaboratively managing projects with my colleagues."
+  },
+  "skills": {
+    "heading": "Skills"
+  },
+  "courses": {
+    "heading": "Courses",
+    "title": "JSE - Certified Entry-Level JavaScript Programmer",
+    "institution": "OpenEDG",
+    "issueDate": "February 2023"
+  },
+  "languages": {
+    "heading": "Languages",
+    "english": "English",
+    "englishLevel": "Advanced",
+    "spanish": "Spanish",
+    "spanishLevel": "Native"
+  }
+}
