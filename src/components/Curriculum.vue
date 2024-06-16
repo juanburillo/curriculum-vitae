@@ -2,6 +2,7 @@
 import Courses from './Courses.vue';
 import Education from './Education.vue';
 import Experience from './Experience.vue';
+import Languages from './Languages.vue';
 import Presentation from './Presentation.vue';
 import Skills from './Skills.vue';
 </script>
@@ -13,5 +14,6 @@ import Skills from './Skills.vue';
     <Education />
     <Skills />
     <Courses />
+    <Languages />
   </div>
 </template>
