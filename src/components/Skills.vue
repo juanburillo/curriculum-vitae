@@ -1,13 +1,13 @@
 <script setup lang="ts">
 const skills: Array<String> = [
-  "Java ☕",
-  "Spring Boot 🍃",
-  "JavaScript 🟨",
-  "Angular 📐",
-  "Vue.js ❇️",
-  "MySQL 🐬",
-  "PHP 🐘",
-  "Tailwind CSS 💨"
+  "☕ Java",
+  "🍃 Spring Boot",
+  "🟨 JavaScript",
+  "📐 Angular",
+  "❇️ Vue.js",
+  "🐬 MySQL",
+  "🐘 PHP",
+  "💨 Tailwind CSS"
 ];
 </script>
 
