@@ -6,9 +6,9 @@
     <h2 class="w-1/6 text-gray-600">Courses</h2>
 
     <div class="w-5/6">
-      <h1 class="font-medium text-xl">JSE - Certified Entry-Level JavaScript Programmer</h1>
-      <h2 class="text-lg">OpenEDG</h2>
-      <h3 class="text-gray-500 text-sm">February 2023</h3>
+      <h1 class="font-medium text-xl text-gray-800">JSE - Certified Entry-Level JavaScript Programmer</h1>
+      <h2 class="text-lg text-gray-700">OpenEDG</h2>
+      <small class="text-sm text-gray-600">February 2023</small>
     </div>
   </section>
 </template>
