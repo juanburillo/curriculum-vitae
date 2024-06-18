@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import SectionLayout from '../layouts/SectionLayout.vue';
 
-const skills: Array<String> = [
+const skills: string[] = [
   "☕ Java",
   "🍃 Spring Boot",
   "🟨 JavaScript",

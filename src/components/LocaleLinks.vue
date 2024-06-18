@@ -3,7 +3,7 @@ import { useI18n } from 'vue-i18n';
 
 const { locale } = useI18n();
 
-const changeLocale = (lang: string) => {
+const changeLocale = (lang: string): void => {
   locale.value = lang;
 };
 </script>
