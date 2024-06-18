@@ -8,7 +8,7 @@ import Skills from './Skills.vue';
 </script>
 
 <template>
-  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 space-y-9 shadow-lg rounded-md bg-[url('./assets/cv_background.png')] bg-contain">
+  <div class="w-[210mm] h-[297mm] my-10 mx-auto p-12 space-y-9 shadow-lg rounded-md bg-white">
     <Presentation />
     <Experience />
     <Education />
