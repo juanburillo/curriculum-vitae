@@ -9,9 +9,9 @@
         <div class="text-sm text-gray-600">
           <p>{{ $t('presentation.location') }}</p>
           <p>+34 648 09 24 23 &middot; juanburillodev@gmail.com</p>
-          <a href="https://www.linkedin.com/in/juan-burillo/" target="_blank" class="underline">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/juan-burillo/" target="_blank" class="underline hover:opacity-80 transition-all duration-150 ease-in-out">LinkedIn</a>
           &middot;
-          <a href="https://github.com/juanburillo/" target="_blank" class="underline">GitHub</a>
+          <a href="https://github.com/juanburillo/" target="_blank" class="underline hover:opacity-80 transition-all duration-150 ease-in-out">GitHub</a>
         </div>
 
         <div class="mt-4">
