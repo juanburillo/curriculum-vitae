@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Courses from './Courses.vue';
+import Certificates from './Certificates.vue';
 import Education from './Education.vue';
 import Experience from './Experience.vue';
 import Languages from './Languages.vue';
@@ -13,7 +13,7 @@ import Skills from './Skills.vue';
     <Experience />
     <Education />
     <Skills />
-    <Courses />
+    <Certificates />
     <Languages />
   </div>
 </template>

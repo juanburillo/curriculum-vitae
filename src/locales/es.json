@@ -23,8 +23,8 @@
   "skills": {
     "heading": "Habilidades"
   },
-  "courses": {
-    "heading": "Cursos",
+  "certificates": {
+    "heading": "Certificados",
     "title": "JSE - Certified Entry-Level JavaScript Programmer",
     "institution": "OpenEDG",
     "issueDate": "Febrero 2023"
