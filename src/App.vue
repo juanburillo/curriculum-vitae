@@ -5,7 +5,7 @@ import LocaleLinks from './components/LocaleLinks.vue';
 </script>
 
 <template>
-  <Background />
+  <!-- <Background /> -->
   <Curriculum />
   <LocaleLinks />
 </template>
